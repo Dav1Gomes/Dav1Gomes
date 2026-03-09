@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4DFFBE&center=true&vCenter=true&width=435&lines=Desenvolvedor+Frontend+Junior;React+Developer;JavaScript+Enthusiast;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
-<p align="center">
-Desenvolvedor Frontend Junior | React
-</p>
-
 ## Sobre mim
 
 Sou desenvolvedor Frontend Junior com foco em React e JavaScript, formado em Análise e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento de interfaces modernas, responsivas e na integração de aplicações com APIs REST.
